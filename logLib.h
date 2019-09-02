@@ -1,0 +1,6 @@
+#ifndef LOGLIB_H_INCLUDED
+#define LOGLIB_H_INCLUDED
+
+
+
+#endif // LOGLIB_H_INCLUDED
